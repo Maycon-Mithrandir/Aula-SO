@@ -1,0 +1,115 @@
+# Aula 01 – Apresentação da Disciplina e Introdução aos Sistemas Operacionais
+
+## 📘 Apresentação da Disciplina
+A disciplina de **Sistemas Operacionais** tem como objetivo apresentar os conceitos fundamentais sobre o funcionamento dos sistemas que fazem a ponte entre o hardware e o software. Durante o semestre, serão abordados aspectos teóricos e práticos essenciais para a formação em Análise e Desenvolvimento de Sistemas.
+
+A aula inicial também teve como foco a apresentação do professor, da metodologia de ensino, critérios de avaliação e organização das atividades em grupo.
+
+---
+
+## 👨‍🏫 Perfil do Professor
+- Mestre em Ciência da Computação  
+- Especialização em Inteligência Artificial (em andamento)  
+- Graduação em Análise e Desenvolvimento de Sistemas  
+- Experiência como Gerente de Projetos, Professor Universitário e Coordenador Acadêmico  
+- Atuação na FATEC com projetos e orientações em Programação Web  
+
+---
+
+## 💻 O Que São Sistemas Operacionais?
+Um **Sistema Operacional (SO)** é um software essencial responsável por:
+- Gerenciar recursos de hardware e software
+- Atuar como interface entre o usuário e a máquina
+
+### Exemplos de Sistemas Operacionais
+- Windows  
+- macOS  
+- Linux  
+- Android  
+- iOS  
+
+---
+
+## 🧱 Estrutura Interna dos Sistemas Operacionais
+Os sistemas operacionais são organizados internamente em camadas para garantir modularidade e eficiência.
+
+### Kernel
+- Núcleo do sistema operacional  
+- Possui acesso direto ao hardware  
+- Gerencia recursos vitais como CPU, memória e dispositivos  
+
+### Modos de Operação
+- **Modo Usuário:** execução de programas comuns  
+- **Modo Kernel:** acesso privilegiado ao hardware  
+
+---
+
+## ⏱️ Escalonamento de Processos
+Responsável por decidir qual processo será executado e por quanto tempo.
+
+### Objetivos
+- Eficiência  
+- Justiça  
+- Bom tempo de resposta  
+
+### Algoritmos
+- FIFO (First In, First Out)  
+- Round Robin  
+- Prioridade  
+
+---
+
+## 🧠 Gerenciamento de Memória
+### Memória Principal
+- Alocação dinâmica  
+- Proteção de memória  
+
+### Memória Virtual
+- Expansão lógica da memória RAM  
+- Uso de paginação e segmentação  
+- Maior flexibilidade e segurança  
+
+---
+
+## 💾 Dispositivos, Arquivos e Virtualização
+- **Gerenciamento de Entrada e Saída:** controle de dispositivos periféricos  
+- **Sistemas de Arquivos:** organização e acesso aos dados  
+- **Segurança:** proteção contra ameaças  
+- **Virtualização:** melhor aproveitamento de recursos e flexibilidade  
+
+---
+
+## 📌 Importância do Portfólio
+Manter um portfólio de projetos permite:
+- Demonstrar habilidades práticas  
+- Evidenciar o aprendizado adquirido  
+- Ampliar oportunidades profissionais  
+- Estimular organização e melhoria contínua  
+
+---
+
+## 📝 Critérios de Avaliação
+A avaliação da disciplina é composta por:
+- P1 (Prova 1) – 25%  
+- P2 (Prova 2) – 25%  
+- Projeto + Atividades – 25%  
+
+**Fórmula:**  
+(P1 × 0,25) + (P2 × 0,25) + ((PJ + AT) × 0,25)
+
+---
+
+## ✅ Atividades da Aula
+- Formação de grupos com 3 a 5 integrantes  
+- Entrega das atividades sempre em grupo  
+- Criação de um repositório no GitHub  
+- Elaboração de um resumo da Aula 01 em Markdown  
+- Criação de uma linha do tempo dos sistemas operacionais (mapa mental no Miro) e conversão para `.md`
+
+---
+
+## 📚 Referências
+- TANENBAUM, A. S.; BOS, H. *Sistemas Operacionais Modernos*  
+- SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G. *Fundamentos de Sistemas Operacionais*  
+- STALLINGS, W. *Sistemas Operacionais: Conceitos e Projetos*  
+- Documentações oficiais (Red Hat, Docker, entre outras)
